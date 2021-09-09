@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.login_styles{
+  padding-top: 15%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.admin_datatable {
+  padding-top: 15%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-left: 35%; 
+}
+
+.admin_datatable .p-datatable-thead {
+  background: green;
+}
+
+.highlight1{
+  background: #bfdcbf
+}
+
